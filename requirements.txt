@@ -1,0 +1,7 @@
+Flask
+pydub
+speechrecognition
+moviepy
+nltk
+sumy
+reportlab
